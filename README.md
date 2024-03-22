@@ -9,3 +9,6 @@ https://www.knowledgehut.com/blog/data-science/java-for-data-science
 https://spark.apache.org/docs/latest/api/java/org/apache/spark/ml/classification/LogisticRegression.html
 https://www.baeldung.com/java-langchain-basics
 https://www.accedia.com/blog/java-in-finance/
+https://www.baeldung.com/java-ai
+https://jtablesaw.github.io/tablesaw/userguide/introduction.html#:~:text=A%20dataframe%20is%20an%20in,Adding%20and%20removing%20columns
+
